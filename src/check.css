@@ -1,0 +1,14 @@
+#box1{
+    padding:1%;
+    margin-bottom: 0%;
+    font-size: 28px;
+}
+
+li{
+    padding : 2%;
+}
+
+a:hover {
+    color:red;
+  }
+

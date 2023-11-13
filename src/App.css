@@ -1,0 +1,15 @@
+header{
+  font-family:monospace;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width : 100%;
+   font-size: 35px;
+   font-weight: 800;
+}
+
+#logo{
+   width : 50px;
+   height: 40px;
+   padding-right: 1%;
+}
